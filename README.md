@@ -5,7 +5,6 @@ Salut le monde
 2. second test
 3. et rien
 
-'code'
-<br>
+'<br>'
 
 ---
