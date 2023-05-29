@@ -5,6 +5,6 @@ Salut le monde
 2. second test
 3. et rien
 
-'<br>'
+'<h1>Ceci est un h1</h1>'
 
 ---
